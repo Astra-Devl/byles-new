@@ -4,7 +4,7 @@
 
 <img src="https://i.ibb.co.com/xSwJ0hgs/Wallpaper-Alchemy-Wallpaper-Naruto-Pedesaan-Tenang-4-K.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
 
-**Library WhatsApp Baileys yang dimodifikasi dari @whiskeysockets/baileys v6.7.24**
+**Library WhatsApp Baileys yang dimodifikasi dari @whiskeysockets/baileys v6.7.x**
 
 [![NPM](https://img.shields.io/badge/npm-latest-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@astracode/byles-new)
 [![Node](https://img.shields.io/badge/node-%3E%3D%2020-brightgreen?style=for-the-badge&logo=node.js)](https://nodejs.org)
@@ -18,7 +18,7 @@
 
 ## 📖 Description
 
-**@astracode/byles-new** adalah library WhatsApp **Baileys** yang telah dimodifikasi dari `@whiskeysockets/baileys` **v6.7.24**.
+**@astracode/byles-new** adalah library WhatsApp **Baileys** yang telah dimodifikasi dari `@whiskeysockets/baileys` **v6.7.x**.
 
 Library ini dirancang untuk mempermudah pembuatan bot WhatsApp dengan dukungan **Button Message** yang lengkap, seperti:
 
